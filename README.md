@@ -28,6 +28,7 @@ File: API_SP.POP.TOTL_DS2_en_csv_v2.csv
 - `uae_population_clean.csv` – Cleaned dataset
 - `.ipynb` – Data cleaning & analysis notebook
 
-## 📌 
-- Power BI dashboard
+## 📌 Power BI Dashboard
+- Designed an interactive Power BI dashboard to visualize UAE population growth trends, including year-wise population changes, growth analysis, and key demographic insights to support government planning and policy decisions.
 - Population forecasting
+Implemented population forecasting using Power BI analytics to predict future UAE population trends, enabling data-driven insights for government planning and policy development.
