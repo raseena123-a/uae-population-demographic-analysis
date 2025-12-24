@@ -28,6 +28,6 @@ File: API_SP.POP.TOTL_DS2_en_csv_v2.csv
 - `uae_population_clean.csv` – Cleaned dataset
 - `.ipynb` – Data cleaning & analysis notebook
 
-## 📌 Future Work
+## 📌 
 - Power BI dashboard
 - Population forecasting
